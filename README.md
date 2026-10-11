@@ -4,7 +4,7 @@
 
 ### **Smart Resume Gap Analyzer Powered by RAG**
 
-**By Farise aml**
+**By Govarthan**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
